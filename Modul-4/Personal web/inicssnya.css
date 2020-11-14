@@ -1,0 +1,82 @@
+body {
+  background-color: #7a5e2d;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000000;
+}
+.navbar li {
+  float: left;
+  margin-right: 20px;
+}
+.navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+.navbar li a:hover {
+  background-color: #4A3510;
+  color: #A8864B;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+.content {
+  float: right;
+  height: 500px;
+  background-color: #A8864B;
+  color: black;
+  padding: 0px 17px 0px 17px;
+}
+.content h1 {
+  text-align: center;
+  color: #4A3510;
+}
+.content h3 {
+  color: #4A3510;
+}
+.content p {
+  text-align: left;
+  color: #4A3510;
+}
+
+.footer {
+  float: left;
+  width: 1350px;
+  height: 50px;
+  text-align: center;
+  background-color: #4A3510;
+  color: #000000;
+}
+
+.image {
+  float: auto;
+  height: 500px;
+  padding: 0px 17px 0px 17px;
+  background-color: #A8864B;
+}
+
+.contact {
+  float: auto;
+  height: 500px;
+  padding: 0px 17px 0px 17px;
+  background-color: #A8864B;
+}
+
+.about {
+  float: auto;
+  height: 500px;
+  padding: 0px 17px 0px 17px;
+  background-color: #A8864B;
+}
+
+/*# sourceMappingURL=inicssnya.css.map */

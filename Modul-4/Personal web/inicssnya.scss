@@ -1,1 +1,96 @@
+$mycolour : rgb(122, 94, 45);
+$font : #4A3510;
+$bgcolour : #000000;
+$colour: #A8864B;
+$number1 : 20px;
+$height: 500px;
+$align1 : center;
+$padding: 0px 17px 0px 17px;
 
+body {
+  background-color: $mycolour;
+}
+
+.navbar{
+	ul{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: $bgcolour;
+	}
+	li {
+		float: left;
+		margin-right: $number1;
+		}
+		
+	li a{
+		display: block;
+		color: white;
+		text-align: $align1;
+		padding: 14px $number1;
+		text-decoration: none;
+}
+
+	li a:hover{
+		background-color: $font;
+		color: $colour;
+}
+}
+
+img{
+	width: 250px;
+	height: 250px;
+	}
+
+.content{
+    float: right;
+    height: $height;
+	background-color: $colour;
+    color: black;
+    padding: $padding;
+	
+    h1{
+        text-align: $align1;
+        color: $font;
+    }
+    h3{
+        color: $font
+    }
+    p{
+        text-align: left;
+        color: $font;
+    }
+}
+.footer{
+    float: left;
+    width: 1350px;
+    height: 50px;
+    text-align: $align1;
+	background-color: $font;
+    color: $bgcolour;
+}
+
+.image{
+    float: auto;
+    height: $height;
+	padding: $padding;
+    background-color: $colour;
+    
+}
+
+.contact{
+    float: auto;
+    height: $height;
+	padding: $padding;
+    background-color: $colour;
+    
+}
+
+.about{
+    float: auto;
+    height: $height;
+	padding: $padding;
+    background-color: $colour;
+    
+}
