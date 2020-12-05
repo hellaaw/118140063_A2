@@ -1,0 +1,24 @@
+{
+    "Nama": "Rasyidah Herawati",
+    "Saudara": {
+        "pertama": "Winda Prasetya Utami",
+        "kedua": "Saya"
+    },
+    "orang_tua": {
+        "ayah": "Puji Sarjono",
+        "ibu": "Sriani"
+    },
+    "hobbies": [
+        "Watch Movies",
+        "Liatening to the Music"
+    ],
+    "alamat": "Sukarame",
+    "sosial_media": {
+        "instagram": "rsydhhella",
+        "github": "rasyidahherawati00",
+        "line": "rasyiidahhella"
+    },
+    "usia": 19,
+    "cita_cita": "Masuk Surga",
+    "status": "Mahasiswa"
+}

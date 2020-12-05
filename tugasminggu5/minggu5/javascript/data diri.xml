@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<dataDiri>
+    <nama>
+    <awal>Rasyidah</awal>
+    <akhir>Herawati</akhir>
+    </nama>
+    <usia>20</usia>
+    <cita_cita>Masuk Surga</cita_cita>
+    <alamat>Sukarame</alamat>
+    <hobi>Nonton Film</hobi>
+    <saudara>
+        <pertama>Winda Prasetya Utami</pertama>
+        <kedua>Saya</kedua>
+    </saudara>
+    <sosialMedia>
+        <instagram>rsydhhella</instagram>
+        <github>rasyidahherawati00</github>
+        <line>rasyiidahhella</line>
+    </sosialMedia>
+</dataDiri>
